@@ -1,0 +1,6 @@
+REQUIREMENTS
+
+yfinance==0.2.61
+pandas==2.2.3
+numpy==2.2.3
+scipy==1.15.3
